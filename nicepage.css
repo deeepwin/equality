@@ -41773,20 +41773,16 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 45px;
+  min-height: 83px;
 }
 
 .u-footer .u-custom-html-1 {
   height: auto;
   min-height: 26px;
-  margin: 10px 0 9px;
+  margin-top: 29px;
+  margin-bottom: 29px;
 }
-@media (max-width: 1199px) {
-  .u-footer .u-custom-html-1 {
-    margin-right: initial;
-    margin-left: initial;
-  }
-}
+
 
 
 
