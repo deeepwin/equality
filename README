@@ -1,0 +1,7 @@
+To update website do following:
+
+
+1. go to nicepage.com login and modify current project
+2. then export. full html export is not available, as it requires premium accont.
+3. open bluegriffin software on Ubuntu and modify html code
+4. commit to Github
