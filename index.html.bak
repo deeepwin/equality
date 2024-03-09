@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="  font-size: 16px;" lang="en">
+<html style="         font-size: 16px;" lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,9 +31,9 @@
       id="sec-16e8" data-image-width="1082" data-image-height="520">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <h1 class="u-text u-text-default u-title u-text-1">Equality Fund</h1>
-        <p class="u-large-text u-text u-text-default u-text-variant u-text-2">
-          AI Driven Stock Investing.</p>
-        <a href="equality.html#carousel_d4c6" class="u-btn u-button-style u-palette-2-base u-btn-1">Read
+        <p class="u-large-text u-custom-font u-font-montserrat u-text u-text-default u-text-variant u-text-2">
+          AI Driven Stock Investing</p>
+        <a href="equality.html#carousel_d4c6" class="u-btn u-custom-font u-font-montserrat u-button-style u-palette-2-base u-btn-1">Read
           More</a> </div>
     </section>
     <section class="u-clearfix u-custom-color-1 u-section-3" id="sec-8b78">
@@ -120,44 +120,48 @@
                       <div class="u-container-style u-list-item u-repeater-item u-shape-rectangle u-list-item-1"
                         data-animation-name="customAnimationIn" data-animation-duration="1250">
                         <div class="u-container-layout u-similar-container u-container-layout-3">
-                          <h4 class="u-align-left u-text u-text-3">Benefit<br>
+                          <h4 class="u-align-left u-custom-font u-font-montserrat u-text u-text-3">Benefit<br>
                           </h4>
-                          <p class="u-align-justify u-text u-text-4" data-animation-name="customAnimationIn"
-                            data-animation-duration="1750" data-animation-delay="500"
-                            data-animation-direction="Left">​Artificial
-                            Intelligence is revolutionizing finance with its
-                            emotion-free, data-driven decisions. Looking to
-                            benefit from the stock market? Consider investing in
-                            the Equality Fund. It has been thoroughly tested and
-                            consistently outperforms the market over one year.</p>
+                          <p class="u-align-justify u-custom-font u-font-montserrat u-text u-text-4"
+                            data-animation-name="customAnimationIn" data-animation-duration="1750"
+                            data-animation-delay="500" data-animation-direction="Left">​
+                            Artificial Intelligence is revolutionizing finance
+                            with its emotion-free, data-driven decisions.
+                            Looking to benefit from the stock market? Consider
+                            investing in the Equality Fund. It has been
+                            thoroughly tested and consistently outperforms the
+                            market over one year.</p>
                         </div>
                       </div>
                       <div class="u-container-style u-list-item u-repeater-item u-shape-rectangle u-list-item-2"
                         data-animation-name="customAnimationIn" data-animation-duration="1250"
                         data-animation-delay="0">
                         <div class="u-container-layout u-similar-container u-container-layout-4">
-                          <h4 class="u-align-left u-text u-text-5">How it works<br>
+                          <h4 class="u-align-left u-custom-font u-font-montserrat u-text u-text-5">How
+                            it works<br>
                           </h4>
-                          <p class="u-align-justify u-text u-text-6" data-animation-name="customAnimationIn"
-                            data-animation-duration="1750" data-animation-delay="500"
-                            data-animation-direction="Left"> At the core of this
-                            fund lies a fully autonomous AI agent trained on a
-                            diverse set of financial data. This AI agent manages
-                            a portfolio of stocks and makes daily decisions
-                            regarding portfolio allocation. It operates entirely
-                            automated, without any human intervention.</p>
+                          <p class="u-align-justify u-custom-font u-font-montserrat u-text u-text-6"
+                            data-animation-name="customAnimationIn" data-animation-duration="1750"
+                            data-animation-delay="500" data-animation-direction="Left">
+                            At the core of this fund lies a fully autonomous AI
+                            agent trained on a diverse set of financial data.
+                            This AI agent manages a portfolio of stocks and
+                            makes daily decisions regarding portfolio
+                            allocation. It operates entirely automated, without
+                            any human intervention.</p>
                         </div>
                       </div>
                       <div class="u-container-style u-list-item u-repeater-item u-shape-rectangle u-list-item-3"
                         data-animation-name="customAnimationIn" data-animation-duration="1250">
                         <div class="u-container-layout u-similar-container u-container-layout-5">
-                          <h4 class="u-align-left u-text u-text-7">INVEST<br>
+                          <h4 class="u-align-left u-custom-font u-font-montserrat u-text u-text-7">INVEST<br>
                           </h4>
-                          <p class="u-align-justify u-text u-text-8" data-animation-name="customAnimationIn"
-                            data-animation-duration="1750" data-animation-direction="Left"
-                            data-animation-delay="500"> Anyone can invest in the
-                            fund. For further information please contact us.</p>
-                          <b><a href="mailto:invest@equalityfund.ch" class="u-btn u-button-style u-palette-2-base u-btn-1">CONTACT</a></b>
+                          <p class="u-align-justify u-custom-font u-font-montserrat u-text u-text-8"
+                            data-animation-name="customAnimationIn" data-animation-duration="1750"
+                            data-animation-direction="Left" data-animation-delay="500">
+                            Anyone can invest in the fund. For further
+                            information please contact us.</p>
+                          <b><a href="mailto:invest@equalityfund.ch" class="u-btn u-custom-font u-font-montserrat u-button-style u-palette-2-base u-btn-1">CONTACT</a></b>
                         </div>
                       </div>
                     </div>
@@ -172,7 +176,7 @@
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-ae1b">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <div class="u-clearfix u-custom-html u-expanded-width u-custom-html-1">©
-          2023 Equality Fund</div>
+          2024 Equality Fund</div>
       </div>
     </footer>
   </body>
